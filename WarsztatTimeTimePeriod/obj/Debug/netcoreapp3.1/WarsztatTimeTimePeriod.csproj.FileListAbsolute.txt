@@ -1,0 +1,13 @@
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\bin\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.exe
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\bin\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.deps.json
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\bin\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.runtimeconfig.json
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\bin\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\bin\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.dll
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\bin\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.pdb
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\obj\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\obj\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\obj\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\obj\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\obj\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.dll
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\obj\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.pdb
+C:\Users\Kuba\Desktop\Nowy folder (3)\WarsztatTimeTimePeriod\obj\Debug\netcoreapp3.1\WarsztatTimeTimePeriod.genruntimeconfig.cache
